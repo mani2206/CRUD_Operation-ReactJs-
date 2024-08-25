@@ -1,0 +1,19 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  height:50px
+}
